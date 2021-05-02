@@ -1,1 +1,1 @@
-https://github.com/JavaRT/rsschool-cv/blob/main/cv.md
+https://javart.github.io/rsschool-cv/cv
