@@ -14,3 +14,9 @@
 <p>watch github</p>
 <h3>6. Experience (for a Junior Dev it means all kinds of experience)</h3>
 <p>none</p>
+<h3>7. Education (including courses, seminars, lectures, online learning)</h3>
+<p>java coure. /SDA soft academy</p>
+<h3>8. English </h3>
+<p>B2</p>   
+
+https://your-github-account.github.io/rsschool-cv/cv
