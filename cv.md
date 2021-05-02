@@ -19,4 +19,4 @@
 <h3>8. English </h3>
 <p>B2</p>   
 
-https://JavaRT/rsschool-cv/blob/main/cv.md
+https://github.com/JavaRT/rsschool-cv/blob/main/cv.md
