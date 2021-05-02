@@ -8,3 +8,7 @@
 <p>email@email.com</p>
 <h3>3. Summary (your goal, wishes) </h3>
 <p>who cares</p>
+<h3>4. Skills (e.g. programming languages, frameworks, methodologies, version con</h3>
+<p>java coure</p>
+<h3>5. Code examples (LATEST)</h3>
+<p>watch github</p>
