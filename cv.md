@@ -12,3 +12,5 @@
 <p>java coure</p>
 <h3>5. Code examples (LATEST)</h3>
 <p>watch github</p>
+<h3>6. Experience (for a Junior Dev it means all kinds of experience)</h3>
+<p>none</p>
