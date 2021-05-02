@@ -20,3 +20,4 @@
 <p>B2</p>   
 
 https://github.com/JavaRT/rsschool-cv/blob/main/cv.md
+
